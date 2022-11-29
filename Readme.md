@@ -14,8 +14,8 @@ U-Net solves the problem of semantic segmentation. Semantic segmentation is the 
 The U-Net architecture consists of three paths: Contracting path, Expanding path, and Concatenation path.
 The new architecture proposed by the authors to solve semantic segmentation is more robust compared to previous models. The most significant advantage is that the network requires a lesser number of inputs compared to the previous state-of-the-art convolutional neural networks. An added benefit is that the model is computationally efficient.
 
-![U-net Architecture image](https://github.com/pranjal-dave/EM-segmentation-challenge/blob/main/U-net.png)
+![U-net Architecture image](https://github.com/pranjal-dave/ISBI2012-EM-Segmentation-Challenge/blob/main/U-net.png)
 
 Following are the results of the resulting model.
 
-![Results GIF](https://github.com/pranjal-dave/EM-segmentation-challenge/blob/main/Challenge-ISBI-2012-Animation-Input-Labels.gif)
+![Results GIF](https://github.com/pranjal-dave/ISBI2012-EM-Segmentation-Challenge/blob/main/Challenge-ISBI-2012-Animation-Input-Labels.gif)
